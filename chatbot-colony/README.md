@@ -14,6 +14,9 @@ A cozy AI-powered city where every building houses a unique chatbot resident wit
 | 🌿 Wellness Spa | **Flora** 🌸 | Calm, caring, health & mindfulness |
 | 🏦 City Bank | **Sterling** 💼 | Professional, financial advisor |
 | 🎨 Creative Studio | **Nova** ✨ | Imaginative, helps with writing & art |
+| 💪 Fitness Hub | **Titan** 🏋️ | Motivating, knowledgeable, fitness coach |
+| 👗 Style Studio | **Shàng** 👚 | Chic, insightful, fashion expert |
+| 💄 Glow Up Salon | **Bella** 💅 | Compassionate, informative, beauty & self-care |
 
 ---
 
