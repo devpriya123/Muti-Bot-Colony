@@ -1,6 +1,6 @@
 # 🏙️ Chatbot Colony
 
-A cozy AI-powered city where every building houses a unique chatbot resident with its own personality. Create an account, explore the city, and have real conversations with 6 distinct AI characters.
+A cozy AI-powered city where every building houses a unique chatbot resident with its own personality. Create an account, explore the city, and have real conversations with 9 distinct AI characters.
 
 ---
 
